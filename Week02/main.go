@@ -1,4 +1,4 @@
-//借鉴
+//借鉴https://github.com/cy22117888/Go-000/blob/main/Week02/main.go
 package main
 
 import(
